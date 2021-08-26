@@ -1,0 +1,2 @@
+graft src/layout_example/templates
+global-exclude *.pyc
